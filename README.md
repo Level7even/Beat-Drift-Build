@@ -13,8 +13,8 @@
 
 
 # Gears # *all they do is boost the acceleration*
-Mouse1: Gear up
-Mouse2: Gear down
+# Mouse1: Gear up
+# Mouse2: Gear down
 
 
 
