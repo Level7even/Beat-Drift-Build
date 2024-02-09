@@ -2,11 +2,14 @@
 
 ## Movement:
 
-# W #: Move Forward
-# A #: Move Left
-# S #: Move Backward
-# D #: Move Right
-# B #: Open/Close windos * Make the music louder/quieter*
+# W: Move Forward
+# A: Move Left
+# S: Move Backward
+# D: Move Right
+
+## Music
+* Makes the music louder/quieter*
+# B: Open/Close windos 
 
 
 # Gears # *all they do is boost the acceleration*
