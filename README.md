@@ -9,7 +9,7 @@
 
 ## Music
 * Makes the music louder/quieter*
-# B: Open/Close windos 
+# B: Open/Close windwos 
 
 
 # Gears # *all they do is boost the acceleration*
